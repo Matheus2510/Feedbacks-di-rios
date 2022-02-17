@@ -1,4 +1,4 @@
-# Feedbacks-diarios
+# Feedbacks diários
 
 Trata-se de uma automação de processo muito útil para empresas que têm em sua organização equipes e necessidade de feedbacks constantes aos seus funcionários, como atendimento ao cliente, por exemplo.
 
