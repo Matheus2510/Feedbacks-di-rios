@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/Matheus2510/Feedbacks-di-rios/blob/main/Feedback-Capa.jpg)
+![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
  
 ## Feedbacks Diários
  
