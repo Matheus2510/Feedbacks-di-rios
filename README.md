@@ -8,13 +8,12 @@ A ideia central é ter uma planilha que informe aos usuários - no caso os super
 
  
 ## Tecnologias
- 
-Here are the technologies used in this project.
 
 * Python versão 3.7.12
 * Arquivos CSV
 * Arquivos Excel (xlsx)
- 
+
+
 ## Serviços utilizados
  
 * Google Colab
@@ -25,21 +24,23 @@ Here are the technologies used in this project.
  
 São utilizados arquivos em formato csv e excel (formatos fornecidos pela empresa). O primeiro deles é o "actions_done.csv", que traz informações detalhadas de cada atendimento, como hora de início, hora em que foi finalizado, identificação do atendimento (source_id), agente que realizou o atendimento, etc.
 
-![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![actions_done]()
 
 O segundo é o "csat.csv", bem semelhante ao primeiro arquivo, porém com uma coluna que indica qual nota o cliente deu para seu atendimento.
 
-![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![csat](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
 
 Além desses dois tem também o "Resultados.csv", que traz os indicadores diários de cada agente.
 
-![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![Resultados](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
 
 Por último, há o "Dimensionamento.xlsx", que traz a divisão das equipes dentro da empresa, para este projeto em específico, os campos utilizados são o nome do funcionário e o seu gestor direto.
 
-![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![Dimensionamento](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
 
 Após carregar os arquivos no Colab, basta executar, incluindo o código de autorização para manipulação de planilhas no Drive do Google. Após isso, é requisitado o dia desejado do relatório (aaaa-mm-dd)
+
+https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_1.png
  
 A planlha de feedbacks diários será atualizada com os dados do dia inserido, bem como outras XXXX sheets distribuídas em 5 worksheets, que servem de apoio aos feedbacks e contém detalhes de cada informação da worksheet de feedbacks diários.
 
@@ -51,6 +52,7 @@ Na worksheet de feedbacks diários há ainda colunas referentes a justificativa 
 
 
 ## Features
+
   - Detalhamento hora a hora
   - Detalhamento dos status dos atendimentos (finalizados, transferidos para outro setor ou transferidos para o mesmo setor)
   - Detalhamento de atendimentos transferidos
