@@ -10,19 +10,17 @@ A ideia central é ter uma planilha que informe aos usuários - no caso os super
 ## Technology 
  
 Here are the technologies used in this project.
+
+* Python version 3.7.12
+* CSV files
+* Excel files
+ 
+## Services Used
  
 * Google Colab
 * Google Sheets
  
- 
-## Services Used
- 
-* Github
-* ...
- 
- 
-## Ruby Gems
-...
+
  
 ## Getting started
  
