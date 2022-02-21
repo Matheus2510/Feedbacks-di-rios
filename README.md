@@ -35,11 +35,12 @@ O segundo é o "csat.csv", bem semelhante ao primeiro arquivo, porém com uma co
 
 Além desses dois tem também o "Resultados.csv", que traz os indicadores diários de cada agente.
 
-![Resultados](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![Resultados](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_resultados.png)
 
 Por último, há o "Dimensionamento.xlsx", que traz a divisão das equipes dentro da empresa, para este projeto em específico, os campos utilizados são o nome do funcionário e o seu gestor direto.
 
-![Dimensionamento](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![Dimensionamento_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_dimensionamento_1.png)
+![Dimensionamento_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_dimensionamento_2.png)
 
 Após carregar os arquivos no Colab, basta executar, incluindo o código de autorização para manipulação de planilhas no Drive do Google. Após isso, é requisitado o dia desejado do relatório (aaaa-mm-dd)
 
