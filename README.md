@@ -24,11 +24,14 @@ A ideia central é ter uma planilha que informe aos usuários - no caso os super
  
 São utilizados arquivos em formato csv e excel (formatos fornecidos pela empresa). O primeiro deles é o "actions_done.csv", que traz informações detalhadas de cada atendimento, como hora de início, hora em que foi finalizado, identificação do atendimento (source_id), agente que realizou o atendimento, etc.
 
-![actions_done](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_1.png) [actions_done](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_2.png)
+![actions_done_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_1.png) 
+![actions_done_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_2.png)
+![actions_done_3](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_3.png)
 
 O segundo é o "csat.csv", bem semelhante ao primeiro arquivo, porém com uma coluna que indica qual nota o cliente deu para seu atendimento.
 
-![csat](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![csat_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csar_1.png)
+![csat_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csar_2.png)
 
 Além desses dois tem também o "Resultados.csv", que traz os indicadores diários de cada agente.
 
