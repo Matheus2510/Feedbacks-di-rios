@@ -30,8 +30,8 @@ São utilizados arquivos em formato csv e excel (formatos fornecidos pela empres
 
 O segundo é o "csat.csv", bem semelhante ao primeiro arquivo, porém com uma coluna que indica qual nota o cliente deu para seu atendimento.
 
-![csat_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csar_1.png)
-![csat_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csar_2.png)
+![csat_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csat_1.png)
+![csat_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csat_2.png)
 
 Além desses dois tem também o "Resultados.csv", que traz os indicadores diários de cada agente.
 
