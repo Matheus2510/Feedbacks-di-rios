@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/actions_done.mp4)
+![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/actions_done.gif)
 
 ![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
  
