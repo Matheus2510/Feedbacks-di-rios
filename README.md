@@ -1,5 +1,3 @@
-![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/actions_done.gif)
-
 ![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
  
 ## Feedbacks Diários
@@ -26,14 +24,11 @@ A ideia central é ter uma planilha que informe aos usuários - no caso os super
  
 São utilizados arquivos em formato csv e excel (formatos fornecidos pela empresa). O primeiro deles é o "actions_done.csv", que traz informações detalhadas de cada atendimento, como hora de início, hora em que foi finalizado, identificação do atendimento (source_id), agente que realizou o atendimento, etc.
 
-![actions_done_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_1.png) 
-![actions_done_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_2.png)
-![actions_done_3](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_3.png)
+![actions_done_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_actions_done_gif_1.gif) 
 
 O segundo é o "csat.csv", bem semelhante ao primeiro arquivo, porém com uma coluna que indica qual nota o cliente deu para seu atendimento.
 
-![csat_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csat_1.png)
-![csat_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csat_2.png)
+![csat_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_csat_gif_1.gif)
 
 Além desses dois tem também o "Resultados.csv", que traz os indicadores diários de cada agente.
 
@@ -41,20 +36,20 @@ Além desses dois tem também o "Resultados.csv", que traz os indicadores diári
 
 Por último, há o "Dimensionamento.xlsx", que traz a divisão das equipes dentro da empresa, para este projeto em específico, os campos utilizados são o nome do funcionário e o seu gestor direto.
 
-![Dimensionamento_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_dimensionamento_1.png)
-![Dimensionamento_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_dimensionamento_2.png)
+![Dimensionamento_1]()
+
 
 Após carregar os arquivos no Colab, basta executar, incluindo o código de autorização para manipulação de planilhas no Drive do Google. Após isso, é requisitado o dia desejado do relatório (aaaa-mm-dd)
 
-https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_1.png
+![Em execucao_1] (https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedbacks_diarios_img_deploy_1.gif)
  
 A planlha de feedbacks diários será atualizada com os dados do dia inserido, bem como outras XXXX sheets distribuídas em 5 worksheets, que servem de apoio aos feedbacks e contém detalhes de cada informação da worksheet de feedbacks diários.
 
-![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![deploy_2]()
 
 Na worksheet de feedbacks diários há ainda colunas referentes a justificativa e ação realizada em cima do fato destacado, com justificativas predefinidas (caso haja alguma, a coluna de ação será realçada de cinza escuro, pois não será necessária nenhuma ação). Há também uma coluna contendo os links para cada uma cad planilhas auxiliares.
 
-![Logo of the project](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/Feedback-Capa.jpg)
+![deploy_3]()
 
 
 ## Features
