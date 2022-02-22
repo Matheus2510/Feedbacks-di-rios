@@ -49,7 +49,7 @@ A planlha de feedbacks diários será atualizada com os dados do dia inserido, b
 
 Na worksheet de feedbacks diários há ainda colunas referentes a justificativa e ação realizada em cima do fato destacado, com justificativas predefinidas (caso haja alguma, a coluna de ação será realçada de cinza escuro, pois não será necessária nenhuma ação). Há também uma coluna contendo os links para cada uma cad planilhas auxiliares.
 
-![deploy_3](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/deploy_3.gif)
+![deploy_3](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/deploy_3.jpeg)
 
 
 ## Features
@@ -68,8 +68,8 @@ Na worksheet de feedbacks diários há ainda colunas referentes a justificativa 
  
 ## Links
  
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
+  - Link of deployed application: https://docs.google.com/spreadsheets/d/1zFoV5t670G5uap20jzlrRhf91Mdgb48yCKhtIHxX0sw/edit?usp=sharing (Feedbacks_diários)
+  - Repositório: https://github.com/Matheus2510/Feedbacks_diarios
     - In case of sensitive bugs like security vulnerabilities, please contact
       YOUR EMAIL directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
@@ -87,21 +87,3 @@ Na worksheet de feedbacks diários há ainda colunas referentes a justificativa 
  
 Please follow github and join us!
 Thanks to visiting me and good coding!
-
-# Feedbacks diários
-
-No nosso caso, a planilha de feedbacks é então atualizada, bem como outras 5 planilhas auxiliares, num total de 15 abas, com mais detalhes de cada fato. São elas: 
-
-- CSAT (Avaliação do cliente)
-
-- Skip/Transfer
-
-- Produtividade
-
-- Hora a hora
-
-- Métricas diárias
-
-Caso deseje saber a lógica por trás de cada uma delas, vou deixar os links com mais detalhes aqui na descrição.
-
-Os fatos relevantes podem ser determinados pela empresa e, com alguns ajustes, serem adaptados para suas necessidades.
