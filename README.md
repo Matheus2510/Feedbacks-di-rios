@@ -36,7 +36,7 @@ Além desses dois tem também o "Resultados.csv", que traz os indicadores diári
 
 Por último, há o "Dimensionamento.xlsx", que traz a divisão das equipes dentro da empresa, para este projeto em específico, os campos utilizados são o nome do funcionário e o seu gestor direto.
 
-![Dimensionamento_1]()
+![Dimensionamento_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/dimensionamento_gif_1.gif)
 
 
 Após carregar os arquivos no Colab, basta executar, incluindo o código de autorização para manipulação de planilhas no Drive do Google. Após isso, é requisitado o dia desejado do relatório (aaaa-mm-dd)
@@ -45,7 +45,7 @@ Após carregar os arquivos no Colab, basta executar, incluindo o código de auto
  
 A planlha de feedbacks diários será atualizada com os dados do dia inserido, bem como outras XXXX sheets distribuídas em 5 worksheets, que servem de apoio aos feedbacks e contém detalhes de cada informação da worksheet de feedbacks diários.
 
-![deploy_2]()
+![deploy_2](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/deploy_2.gif)
 
 Na worksheet de feedbacks diários há ainda colunas referentes a justificativa e ação realizada em cima do fato destacado, com justificativas predefinidas (caso haja alguma, a coluna de ação será realçada de cinza escuro, pois não será necessária nenhuma ação). Há também uma coluna contendo os links para cada uma cad planilhas auxiliares.
 
