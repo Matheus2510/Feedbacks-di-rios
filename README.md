@@ -75,12 +75,12 @@ Na worksheet de feedbacks diários há ainda colunas referentes a justificativa 
       to improve the security and privacy of this project!
  
  
-## Versioning
+## Versão
  
 1.0.0.0
  
  
-## Authors
+## Autores
  
 * **Matheus Henrique de Souza**: @Matheus2510 (https://github.com/Matheus2510)
  
