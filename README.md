@@ -49,7 +49,7 @@ A planlha de feedbacks diários será atualizada com os dados do dia inserido, b
 
 Na worksheet de feedbacks diários há ainda colunas referentes a justificativa e ação realizada em cima do fato destacado, com justificativas predefinidas (caso haja alguma, a coluna de ação será realçada de cinza escuro, pois não será necessária nenhuma ação). Há também uma coluna contendo os links para cada uma cad planilhas auxiliares.
 
-![deploy_3]()
+![deploy_3](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/deploy_3.gif)
 
 
 ## Features
