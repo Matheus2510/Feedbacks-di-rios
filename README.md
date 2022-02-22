@@ -41,7 +41,7 @@ Por último, há o "Dimensionamento.xlsx", que traz a divisão das equipes dentr
 
 Após carregar os arquivos no Colab, basta executar, incluindo o código de autorização para manipulação de planilhas no Drive do Google. Após isso, é requisitado o dia desejado do relatório (aaaa-mm-dd)
 
-![Em execucao_1] (https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/deploy_1.gif)
+![Em execucao_1](https://github.com/Matheus2510/Feedbacks_diarios/blob/main/folder/deploy_1.gif)
  
 A planlha de feedbacks diários será atualizada com os dados do dia inserido, bem como outras XXXX sheets distribuídas em 5 worksheets, que servem de apoio aos feedbacks e contém detalhes de cada informação da worksheet de feedbacks diários.
 
